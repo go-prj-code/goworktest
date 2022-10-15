@@ -1,0 +1,6 @@
+go 1.18
+
+use (
+	./goworktest
+	./gws1Prj1
+)
